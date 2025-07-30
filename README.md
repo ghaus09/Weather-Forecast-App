@@ -7,7 +7,7 @@ Features
 - Search weather by city name
 - Shows temperature, weather condition, and icon
 - Uses OpenWeatherMap API for real-time data
-- Responsive and styled with a clean UI
+- Clean UI
 - Background image and animated transitions
 
 ## 🌐 Live Demo
